@@ -15,6 +15,7 @@
     },
     "scripts": {
       "start": "react-scripts --openssl-legacy-provider start",
+      "start:api": "json-server --watch src/models/db.json --port=3001",
       "build": "react-scripts --openssl-legacy-provider build"
     },
     "eslintConfig": {
