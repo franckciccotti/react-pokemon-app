@@ -19,5 +19,4 @@
       <li>Bonus : ECMAScript 2015 ES6 (promesses, let/const, fonctions fléchées, Set/Map,...)</li>
   </ul>
 
-  <strong>Le Github : </strong><a href="https://github.com/franckciccotti/react-pokemon-app" target='blanc' >https://github.com/franckciccotti/react-pokemon-app</a>
 </div>
