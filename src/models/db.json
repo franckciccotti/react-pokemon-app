@@ -104,16 +104,6 @@
       ]
     },
     {
-      "id": 1695937898518,
-      "hp": 100,
-      "cp": 10,
-      "name": "Nouveau Pokémon",
-      "picture": "http://assets.pokemon.com/assets/cms2/img/pokedex/detail/185.png",
-      "types": [
-        "Normal"
-      ]
-    },
-    {
       "id": 1695938033382,
       "name": "Surprise",
       "hp": 100,
